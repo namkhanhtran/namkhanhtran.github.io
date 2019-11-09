@@ -4,6 +4,7 @@ title: Publications
 comments: false
 share: false
 ---
+See [Google Scholar](https://scholar.google.de/citations?user=61ZSm2QAAAAJ&hl=en) for latest updates.
 
 ### Peer-Reviewed Journals
 2. Elia Bruni, _Nam Khanh Tran_, Marco Baroni (2014). Multimodal Distributional Semantics. Journal of Artificial Intelligence Research (JAIR '14). [[pdf](https://www.jair.org/index.php/jair/article/view/10857)] (__2017 IJCAI-JAIR Best Paper Prize__)
