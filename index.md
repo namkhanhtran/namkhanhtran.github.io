@@ -6,7 +6,9 @@ comments: false
 share: false
 ---
 
-I am an Applied Scientist, with experience and knowledge in Natural Language Processing, Machine Learning, Information Retrieval and Time Series Forecasting.
+As of September 2018 I’ve joined Amazon Intelligent Cloud Control (ICC) as an Applied Scientist.
+
+I am interested in natural language processing, deep learning, and time series forecasting.
 
 Email: ```khanhtn09 at gmail.com``` (replace ```at``` by @).
 
