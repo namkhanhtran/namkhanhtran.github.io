@@ -15,14 +15,14 @@ Before starting my PhD, I completed my master, [EMLCT](https://lct-master.org/),
 Email: ```khanhtn09 at gmail.com``` (replace ```at``` by @).
 
 ## News
-* As of September 2018 I’ve joined Amazon as an Applied Scientist.
+* As of Sept 2018 I’ve joined Amazon as an Applied Scientist.
 * Our paper got accepted at *SEM 2018, New Orleans, US.
 * Our paper got accepted at SIGIR 2018, Michigan, US.
 * Our paper got accepted at WWW FiQA Challenge 2018, Lyon, France.
 * Our paper got accepted at PVLDB 2017. Congrats [Dat!](https://people.mpi-inf.mpg.de/~datnb/).
-* Our JAIR [paper](https://www.jair.org/media/4135/live-4135-7609-jair.pdf) got 2017 IJCAI-JAIR Best paper prize!
+* Our JAIR [paper](https://www.jair.org/media/4135/live-4135-7609-jair.pdf) got __2017 IJCAI-JAIR Best paper prize__.
 * 01/05-31/08, 2017: ML Intern at Amazon Berlin
-* Our paper got accepted at ESWC 2017 (Normination for best student paper award!)
+* Our paper got accepted at ESWC 2017 (__Best student paper norminated__)
 * Among 5 CIKM cup 2016 Track 1 Winners [pdf](https://arxiv.org/abs/1612.07117)
 
 
