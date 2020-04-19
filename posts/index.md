@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Index
-share: false,
+share: false
 permalink: /posts/
 description: Notes of Nam Khanh Tran
 ---
