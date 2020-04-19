@@ -6,7 +6,7 @@ category: posts
 tags: [python, devops]
 published: true
 share: false
-author: "Nam Khanh Tran"
+author: namkhanhtran
 description: "Notes on setting up a python environment"
 ---
 
