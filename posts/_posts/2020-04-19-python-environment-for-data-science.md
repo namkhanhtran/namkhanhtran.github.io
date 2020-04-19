@@ -46,10 +46,8 @@ Most of the time I have been using anaconda and pip, but pyenv is also a great t
   pyenv install VERSION_YOU_WOULD_LIKE_TO_INSTALL
   pyenv install --list
   pyenv global 3.7.5 # make it a default global intepreter
-```
+  ```
   
-  
-
 ### Dependency Management
 
 Options
