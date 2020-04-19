@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Index
-share: false
+share: false,
+permalink: /posts/
+description: Notes of Nam Khanh Tran
 ---
 
 A list of posts that aim to document what I've learned so far about ML, data science, devops and so on.
