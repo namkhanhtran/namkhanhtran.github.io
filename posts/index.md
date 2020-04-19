@@ -1,8 +1,9 @@
 ---
 layout: post-index
-title: All Posts
-excerpt: "A List of Posts"
+title: Index
 ---
+
+A list of posts that aim to document what I've learned so far about ML, data science, devops and so on.
 
 <ul>
   {% for post in site.posts %}
