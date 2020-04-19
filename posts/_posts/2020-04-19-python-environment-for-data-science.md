@@ -47,6 +47,8 @@ Most of the time I have been using anaconda and pip, but pyenv is also a great t
   pyenv install --list
   pyenv global 3.7.5 # make it a default global intepreter
 ```
+  
+  
 
 ### Dependency Management
 
@@ -93,7 +95,7 @@ So far I've been using pip/anaconda to manage project dependencies, which is som
 
   ```python
   # Initialze a new project
-  poetry new dsexample 
+  poetry new dsexample
   cd dsexample
   # Add modules and create virtual environment.
   poetry add pandas=0.25 fastapi --extras all
@@ -103,4 +105,5 @@ So far I've been using pip/anaconda to manage project dependencies, which is som
 
 
 ## Links
-1. https://towardsdatascience.com/how-to-setup-an-awesome-python-environment-for-data-science-or-anything-else-35d358cc95d5
+1. [https://towardsdatascience.com/how-to-setup-an-awesome-python-environment-for-data-science-or-anything-else-35d358cc95d5](https://towardsdatascience.com/how-to-setup-an-awesome-python-environment-for-data-science-or-anything-else-35d358cc95d5)
+
