@@ -6,9 +6,9 @@ comments: false
 share: false
 ---
 
-I am an Applied Scientist at Amazon - Intelligent Cloud Control (ICC), with experience and knowledge in natural language processing, deep learning, information retrieval and time series forecasting.
+I am an Applied Scientist at Amazon, with experience and knowledge in ML/DL, NLP/IR/CV and time series forecasting.
 
-I did my PhD at L3S Research Center, Leibniz Universität Hannover, Germany. During my PhD, I worked on natural language processing and information retrieval, advised by [Prof. Wolfgang Nejdl](http://www.kbs.uni-hannover.de/~nejdl/) and [Dr. Claudia Niederée](https://www.l3s.de/en/node/86).
+I did my PhD at L3S Research Center, Leibniz Universität Hannover, Germany. During my PhD, I worked on ML for NLP/IR, advised by [Prof. Wolfgang Nejdl](http://www.kbs.uni-hannover.de/~nejdl/) and [Dr. Claudia Niederée](https://www.l3s.de/en/node/86).
 
 Before starting my PhD, I completed my master, [EMLCT](https://lct-master.org/), in computational linguistics at Universität des Saarlandes and Università degli Studi di Trento. [Dr. Marco Baroni](https://research.fb.com/people/baroni-marco/) and [Prof. Manfred Pinkal](http://www.coli.uni-saarland.de/~pinkal/en/page.php) were my master thesis supervisors.
 
